@@ -1,0 +1,12 @@
+- name: 软件
+  keywords:
+      - Scratch
+      - Python
+      - Docker
+      - Ansible
+
+- name: 硬件
+  keywords:
+      - Raspberry Pi
+      - micro:bit
+
