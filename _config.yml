@@ -99,7 +99,7 @@ disqus:
     username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner:
+    owner: CodePlayerBox
     repo: codeplayerbox.github.io
     oauth:
         client_id: 81493faed0ef075c14c5
