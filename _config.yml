@@ -4,10 +4,10 @@
 baseurl:
 url: https://codeplayerbox.github.io
 date_format: "ordinal"
-title: CodePlaerBox
-subtitle: "学编程 玩代码"
-description: "玩码盒博客"
-keywords: 玩码盒, CodePlaerBox
+title: 玩码小盒
+subtitle: "玩代码 练思维"
+description: "玩码小盒博客"
+keywords: 玩码小盒, CodePlaerBox
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -16,8 +16,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: CodePlayerBox
-organization:
-organization_url:
+organization: 玩码小组
+organization_url: /about
 github_username: CodePlayerBox
 location: 北京, 中国
 email: xiaowp@flamingoeda.com
