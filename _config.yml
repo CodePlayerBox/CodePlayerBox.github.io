@@ -95,15 +95,15 @@ comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
-disqus:
-    username:
+#disqus:
+#    username:
 # https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: CodePlayerBox
-    repo: codeplayerbox.github.io
-    oauth:
-        client_id: 81493faed0ef075c14c5
-        client_secret: 8b91b1ee1a4dc0be3797e1dd45cbf00bd04e988f
+#gitment:
+#    owner: CodePlayerBox
+#    repo: codeplayerbox.github.io
+#    oauth:
+#        client_id: 81493faed0ef075c14c5
+#        client_secret: 8b91b1ee1a4dc0be3797e1dd45cbf00bd04e988f
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: CodePlayerBox
