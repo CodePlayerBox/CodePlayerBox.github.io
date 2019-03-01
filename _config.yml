@@ -106,7 +106,8 @@ comments_provider: gitalk
 #        client_secret: 8b91b1ee1a4dc0be3797e1dd45cbf00bd04e988f
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: xiaowp
+    owner: CodePlayerBox
+    admin: xiaowp
     repo: codeplayerbox.github.io
     clientID: 81493faed0ef075c14c5
     clientSecret: 8b91b1ee1a4dc0be3797e1dd45cbf00bd04e988f
