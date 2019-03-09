@@ -11,7 +11,7 @@ keywords: scratch, scratch-www
 
 Scratch 在 Github 上有一个 [scratch-wwww](https://github.com/LLK/scratch-www) 代码库，官方的说法是”web client for Scratch“，运行起来会发现它基本上就是 [Scratch 官网](https://scratch.mit.edu) 的前端源代码。
 
-根据 [README](https://github.com/LLK/scratch-www/blob/develop/README.md) 中的说法，完整的 Scratch 官网在运行时至少还需要如下个部分的支撑：
+根据 [README](https://github.com/LLK/scratch-www/blob/develop/README.md) 中的说法，完整的 Scratch 官网在运行时至少还需要如下几个部分的支撑：
 
 * API_HOST
 
